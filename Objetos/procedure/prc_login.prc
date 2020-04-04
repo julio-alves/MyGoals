@@ -1,3 +1,8 @@
 BEGIN
   NULL;
+  IF 1=1 THEN
+    NULL;
+  ELSE
+    NULL;
+  END IF;
 END;
